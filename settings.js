@@ -35,7 +35,7 @@ global.fileStackApi = "AVKHbeyXsT0G9IKI01qenz"
 // OPSI PAIRING BY FANZ
 global.usePairingCode = true // false untuk QR
 // ISI NOMOR BOTNYA DISINI
-global.pairingNumber = "62856079593906" // gunakan tanpa + dan spasi
+global.pairingNumber = "6285607959390" // gunakan tanpa + dan spasi
 //Set Bot
 global.public = true
 global.baileysMd = true
